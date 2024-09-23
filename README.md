@@ -41,10 +41,10 @@ The following chart demonstrates the reduction in vulnerabilities over time due 
 
 How to Use
 To run this project:
-1. Clone the repository: `git clone https://github.com/your-username/repository-name`
-2. Install any required dependencies (if applicable).
-3. Run the Python script: `python vulnerability_script.py`
-4. The script will automatically pull data from IBM BigFix and generate a CSV report of vulnerabilities.
+1. Clone the repository: `git clone https://github.com/drwhatchamacallit/VM-and-Automation
+3. Install any required dependencies (if applicable).
+4. Run the Python script: `python vulnerability_script.py`
+5. The script will automatically pull data from IBM BigFix and generate a CSV report of vulnerabilities.
 
 Future Improvements
 - Expand automation to include patching of identified vulnerabilities.
