@@ -36,7 +36,7 @@ This project demonstrates my work on automating vulnerability management using P
 **Visual Results**
 The following chart demonstrates the reduction in vulnerabilities over time due to the automation of the vulnerability management process:
 
-![vulnerability_reduction_disney_updated_chart](https://github.com/user-attachments/assets/c2773647-4f3d-4c02-89dd-689b4ea1c3ff)
+![vulnerability_reduction_disney_zero_day_chart](https://github.com/user-attachments/assets/fd3eadd2-11b5-4b25-b9f7-4432298b688e)
 
 
 How to Use
