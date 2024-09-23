@@ -36,7 +36,9 @@ This project demonstrates my work on automating vulnerability management using P
 **Visual Results**
 The following chart demonstrates the reduction in vulnerabilities over time due to the automation of the vulnerability management process:
 
-![Vulnerability Reduction Chart](https://github.com/user-attachments/assets/f6ae5240-8725-48a7-8745-236c90603cd7)
+
+![Vulnerability Reduction Chart]![image](https://github.com/user-attachments/assets/103b7ac1-ffaa-4827-8537-ccf983b95b8d)
+
 
 
 How to Use
