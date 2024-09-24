@@ -1,6 +1,6 @@
 **VM-and-Automation**
 A project showcasing the automation of vulnerability management using Python and IBM BigFix, demonstrating backlog reduction and improved security posture.
-	1.	Project Title and Description
+	1.	Project and Description
 	2.	Project Goals
 	3.	Key Achievements
 	4.	Technologies Used
